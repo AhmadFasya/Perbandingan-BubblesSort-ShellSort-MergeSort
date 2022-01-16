@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1642307710 source:e:\pelajaran kuliah\semester 3\struktur data\codeblock\tubesaka_sort\sort.cpp
+	"sort.h"
+
+1642233855 e:\pelajaran kuliah\semester 3\struktur data\codeblock\tubesaka_sort\sort.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<chrono>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1642234000 source:e:\pelajaran kuliah\semester 3\struktur data\codeblock\tubesaka_sort\main.cpp
+	"sort.h"
+
